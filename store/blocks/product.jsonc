@@ -32,7 +32,7 @@
     }
   },
   "flex-layout.row#qty-sku": {
-    "children": ["sku-selector", "product-quantity", "shipping-simulator"]
+    "children": ["sku-selector", "product-quantity"]
   },
   "flex-layout.row#ship": {
     "children": ["shipping-simulator"]
