@@ -1,11 +1,10 @@
 {
   "menu-item#major-appliances": {
     "props": {
-      "type": "category",
+      "type": "custom",
       "highlight": true,
       "itemProps": {
-        "categoryId": ,
-        "text": "Major appliances"
+        "text": "Major Aplliances"
       }
     },
     "blocks": ["vtex.menu@2.x:submenu#major"]
