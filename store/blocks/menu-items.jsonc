@@ -4,6 +4,7 @@
       "type": "category",
       "highlight": true,
       "itemProps": {
+        "categoryId": 1,
         "text": "Major appliances"
       },
       "blocks": ["vtex.menu@2.x:submenu#major"]
