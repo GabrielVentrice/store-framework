@@ -4,11 +4,11 @@
       "type": "category",
       "highlight": true,
       "itemProps": {
-        "categoryId": 1,
+        "categoryId": ,
         "text": "Major appliances"
-      },
-      "blocks": ["vtex.menu@2.x:submenu#major"]
-    }
+      }
+    },
+    "blocks": ["vtex.menu@2.x:submenu#major"]
   },
   "menu-item#small-appliances": {
     "props": {
